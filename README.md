@@ -1,2 +1,28 @@
-# 9a24acdf-grant-writing-management-mee
-Stop losing track of critical grant decisions made in meetings—your team’s alignment depends on capturing every funding direction, stakeholder update, and approval step in one place.  This Notion template transforms scattered meeting notes into a structured decision log that ensures every grant milestone is documented and actionable. By centralizin
+# Grant Writing & Management Meeting Notes and Decision Log Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi00jfXx6Ak3lmgUcd0j3O)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi00jfXx6Ak3lmgUcd0j3O)
+
